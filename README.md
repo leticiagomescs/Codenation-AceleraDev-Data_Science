@@ -6,7 +6,7 @@
 
 ## Seleção
 
-### Desafio: Prever a nota de matemática do Enem de 2016:
+### Desafio: Prever a nota de matemática do ENEM de 2016:
 
 ......
 
