@@ -41,17 +41,9 @@ Os desafios desse programa foram desenvolvidos utilizando as seguintes tecnologi
 - [Pandas](https://pandas.pydata.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 
-### Requisitos
-
-- [Python](https://www.python.org/)
-- [Anaconda](https://www.anaconda.com/)
-- [Jupyter](https://jupyter.org/)
-
-
 # Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 
 ## Seleção
 
