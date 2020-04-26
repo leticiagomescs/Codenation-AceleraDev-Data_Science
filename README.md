@@ -24,8 +24,6 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#como-contribuir">Como contribuir</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
