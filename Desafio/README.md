@@ -1,47 +1,40 @@
-<img width="276" alt="logo" src="https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/blob/master/Desafio/math-1500720_640.jpg">
+<p align="center">
+  <img src="img width="276" alt="logo" src="https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/blob/master/Desafio/math-1500720_640.jpg" />
+</p>
 
 # Descubra as melhores notas de matemática do ENEM 2016
 
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. Para isso, usará Python, Pandas, Sklearn e Regression.
 
+Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. 
 
 ## Tópicos
 
 Neste desafio você aprenderá:
 
-- [Python](https://www.python.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Sklearn](https://scikit-learn.org/)
+- Lógica
+- Análise de dados
+- Estatística
 - Regression
-
-## Requisitos
-
-Você precisará de [python 3.6](https://www.python.org/downloads/release/python-368/) (ou superior) e do gerenciador de pacotes pip.
-
-O recomendado é você utilizar um [ambiente virtual](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais). Para isto, execute os comandos como no exemplo abaixo:
-
-**Linux/macos**
-
-    pip3 install virtualenv
-    virtualenv ../venv -p python3
-    source ../venv/bin/activate 
-    pip install -r requirements.txt
-
-**Windows**
-
-    pip3 install virtualenv
-    virtualenv ..\venv -p python3
-    ..\venv\Scripts\activate
-    pip install -r requirements.txt
-
-
-Ao terminar o desafio, você pode sair do ambiente criado com o comando `deactivate`
 
 ## Detalhes
 
 O contexto do desafio gira em torno dos resultados do ENEM 2016 (disponíveis no arquivo train.csv). Este arquivo, e apenas ele, deve ser utilizado para todos os desafios. Qualquer dúvida a respeito das colunas, consulte o [Dicionário dos Microdados do Enem 2016](https://s3-us-west-1.amazonaws.com/acceleration-assets-highway/data-science/dicionario-de-dados.zip).
 
-No arquivo test.csv crie um modelo para prever nota da prova de matemática (coluna `NU_NOTA_MT`) de quem participou do ENEM 2016. 
+Muitas universidades brasileiras utilizam o ENEM para selecionar seus futuros alunos e alunas. Isto é feito com uma média ponderada das notas das provas de matemática, ciências da natureza, linguagens e códigos, ciências humanas e redação. Determine os 20 melhores colocados, por ordem, para os pesos abaixo:
 
-Salve sua resposta em um arquivo chamado answer.csv com duas colunas: `NU_INSCRICAO` e `NU_NOTA_MT`.
+- matemática: 3
+- ciências da natureza: 2
+- linguagens e códigos: 1.5
+- ciências humanas: 1
+- redação: 3
 
+No arquivo test.csv crie um modelo para prever nota da prova de matemática (coluna **NU_NOTA_MT**) de quem participou do ENEM 2016. 
+
+Salve sua resposta em um arquivo chamado answer.csv com duas colunas: **NU_INSCRICAO** e **NU_NOTA_MT**.
+
+Faça o upload do arquivo answer.csv usando o botão "Submeter resposta".
+
+## Observações
+
+O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior ferramental de matemática e estatística como Python, R, Scala ou Julia.
