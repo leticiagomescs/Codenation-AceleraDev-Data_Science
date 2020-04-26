@@ -13,10 +13,10 @@
 </h2>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="License" src="https://img.shields.io/github/license/JedersonLuz/Codenation_AceleraDev_DataScience">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leticiagomescs/Codenation-AceleraDev-DataScience">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/leticiagomescs/Codenation-AceleraDev-DataScience">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leticiagomescs/Codenation-AceleraDev-DataScience">
+  <img alt="License" src="https://img.shields.io/github/license/leticiagomescs/Codenation-AceleraDev-DataScience">
 </p>
 
 <p align="center">
@@ -49,20 +49,11 @@ Os desafios desse programa foram desenvolvidos utilizando as seguintes tecnologi
 - [Anaconda](https://www.anaconda.com/)
 - [Jupyter](https://jupyter.org/)
 
-# Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
 
 # Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-# AceleraDev Data Science - Codenation 
-
-.....
 
 ## Seleção
 
