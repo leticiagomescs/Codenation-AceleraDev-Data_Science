@@ -61,9 +61,9 @@ A precisão alcançada pelo algorítimo de predição desenvolvido foi de 93,56%
 
 ## Imersão 
 
-### [Semana 1](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
-### [Semana 2](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
-### [Semana 3](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
-### [Semana 4](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
+### - [Semana 1](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
+### - [Semana 2](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
+### - [Semana 3](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
+### - [Semana 4](https://github.com/leticiagomescs/Codenation-AceleraDev-DataScience/tree/master/Semana%2001)
 
 
