@@ -47,3 +47,7 @@ Descrição dos dados:
 'membro_ativo': Membro acessa e consome frequentemente
 
 Obs: Os dados são fictícios, mas tentam representar a realidade de uma base de clientes de um produto SaaS. 
+
+
+
+
